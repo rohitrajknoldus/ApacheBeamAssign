@@ -35,6 +35,7 @@ public class MallCustomers {
                             return KV.of(tokens[1], Double.parseDouble(tokens[3]));
                         }))
                 .apply("MaxValue", Mean.perKey())
+               // .apply(new StringBuilder().)
                 .apply("Format-result", MapElements
                         .into(TypeDescriptors.strings())
                         .via(productCount -> productCount.getKey() + "," + productCount.getValue()))
@@ -42,7 +43,7 @@ public class MallCustomers {
                         .to(averagePriceProcessingOptions.getOutputFile())
                         .withoutSharding()
                         .withSuffix(".csv")
-                        .withHeader("state, max_price"));
+                        .withHeader("gendre,avg_annual_income(k$),avg_spending_score"));
 
         pipeline.run();
         System.out.println("pipeline executed successfully");

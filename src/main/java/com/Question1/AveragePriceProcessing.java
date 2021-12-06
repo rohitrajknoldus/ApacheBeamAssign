@@ -32,7 +32,7 @@ public class AveragePriceProcessing {
                         .into(TypeDescriptors.kvs(TypeDescriptors.strings(), TypeDescriptors.doubles()))
                         .via((String line) -> {
                             String[] tokens = line.split(",");
-                            return KV.of(tokens[6], Double.parseDouble(tokens[2]));
+                            return KV.of(tokens[6]+","+tokens[5], Double.parseDouble(tokens[2]));
                         }))
                 .apply("MaxValue", Max.perKey())
                 .apply("Format-result", MapElements
@@ -42,7 +42,7 @@ public class AveragePriceProcessing {
                         .to(averagePriceProcessingOptions.getOutputFile())
                         .withoutSharding()
                         .withSuffix(".csv")
-                        .withHeader("state, max_price"));
+                        .withHeader("State, city, max_price"));
 
         pipeline.run();
         System.out.println("pipeline executed successfully");
