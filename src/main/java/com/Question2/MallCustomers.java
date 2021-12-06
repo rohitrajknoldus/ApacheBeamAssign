@@ -42,7 +42,7 @@ public class MallCustomers {
                         .to(averagePriceProcessingOptions.getOutputFile())
                         .withoutSharding()
                         .withSuffix(".csv")
-                        .withHeader("state, max_price"));
+                        .withHeader("Gender, Average"));
 
         pipeline.run();
         System.out.println("pipeline executed successfully");
