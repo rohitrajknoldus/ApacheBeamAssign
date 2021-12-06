@@ -43,7 +43,11 @@ public class MallCustomers {
                         .to(averagePriceProcessingOptions.getOutputFile())
                         .withoutSharding()
                         .withSuffix(".csv")
+<<<<<<< HEAD
                         .withHeader("gendre,avg_annual_income(k$),avg_spending_score"));
+=======
+                        .withHeader("Gender, Average"));
+>>>>>>> e74523f4ebf0947f69b9bc2991036502a0dd5dc5
 
         pipeline.run();
         System.out.println("pipeline executed successfully");
