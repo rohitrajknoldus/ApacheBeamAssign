@@ -16,10 +16,12 @@ import java.util.logging.Logger;
 
 class MallCustomers {
 /**
+*LOGGER initializer as private static final
  */
     private static final Logger LOGGER
             = (Logger) LoggerFactory.getLogger(MallCustomers.class);
     /**
+    * Main method called
      */
     private static final String CSV_HEADER = "CustomerID,"
             + "Genre,Age,Annual Income (k$)";
@@ -32,6 +34,8 @@ class MallCustomers {
                 .as(AveragePriceProcessingOptions.class);
 
         Pipeline pipeline = Pipeline.create(averagePriceProcessingOptions);
+        
+        // applied pipeline for the required file
         pipeline.apply("Read-Lines", TextIO.read()
                         .from(averagePriceProcessingOptions.getInputFile()))
                 .apply("Filter-Header", Filter.by((String line) ->
@@ -52,8 +56,9 @@ class MallCustomers {
                 .apply("WriteResult", TextIO.write()
                         .to(averagePriceProcessingOptions.getOutputFile())
                         .withoutSharding().withSuffix(".csv"));
-        LOGGER.info("pipeline executed successfully");
-        pipeline.run();
+        
+        LOGGER.info("pipeline executed successfully");// output message
+        pipeline.run();// run pipeline required file
     }
     public interface AveragePriceProcessingOptions extends PipelineOptions {
         @Description("Path of the file to read from")
