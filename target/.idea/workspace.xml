@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b15e0a5-6496-4f61-a5f5-242a105f9064" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/source/Mall_Customers_Income.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" beforeDir="false" afterPath="$PROJECT_DIR$/checkstyle-idea.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/Question1/AveragePriceProcessing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/question1/AveragePriceProcessing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/Question2/MallCustomers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/question2/MallCustomers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/sink/payment_type_count.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/sink/payment_type_count.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/Question1/AveragePriceProcessing.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/Question1/AveragePriceProcessing.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/Question2/MallCustomers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/Question2/MallCustomers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sink/payment_type_count.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sink/payment_type_count.csv" afterDir="false" />
-    </list>
+    <list default="true" id="7b15e0a5-6496-4f61-a5f5-242a105f9064" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
