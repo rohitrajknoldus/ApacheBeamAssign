@@ -15,11 +15,15 @@ import static com.sun.xml.internal.ws.spi.db.BindingContextFactory.LOGGER;
 
 class AveragePriceProcessing {
     /**
-     */
+    * CSV_HEADER initializes as private for Transaction_date,Product,
+        Price,Payment_Type,Name,City,State,Country,
+             Account_Created,Last_Login,Latitude,Longitude,US Zip
+    */
     private static final String CSV_HEADER = "Transaction_date,"
             + "Product,Price,Payment_Type,Name,City,State,Country,"
             + "Account_Created,Last_Login,Latitude,Longitude,US Zip";
 
+    // Main method called here
     public static void main(final String[] args) {
         final AveragePriceProcessingOptions averagePriceProcessingOptions
                 = PipelineOptionsFactory.fromArgs(args)
@@ -28,6 +32,7 @@ class AveragePriceProcessing {
 
         Pipeline pipeline = Pipeline.create(averagePriceProcessingOptions);
 
+        // this pipeline referes to read the required file 
         pipeline.apply("Read-Lines", TextIO.read()
                 .from(averagePriceProcessingOptions.getInputFile()))
                 .apply("Filter-Header", Filter.by((String line) ->
@@ -45,6 +50,7 @@ class AveragePriceProcessing {
                         .into(TypeDescriptors.strings())
                         .via(productCount -> productCount.getKey() + ","
                                 + "," + productCount.getValue()))
+            //Applied pipeline to modify the required file
                 .apply("WriteResult", TextIO.write()
                         .to(averagePriceProcessingOptions.getOutputFile())
                         .withoutSharding()
@@ -52,7 +58,7 @@ class AveragePriceProcessing {
                         .withHeader("State, city, max_price"));
 
         pipeline.run();
-        LOGGER.info("pipeline executed successfully");
+        LOGGER.info("pipeline executed successfully");// Output message
     }
     public interface AveragePriceProcessingOptions extends PipelineOptions {
         @Description("Path of the file to read from")
