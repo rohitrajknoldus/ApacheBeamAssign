@@ -1,769 +1,769 @@
 State, city, max_price
-Tel Aviv,Tel Aviv,1200.0
-Ontario,Orillia,1200.0
-AR,Rogers,7500.0
-MS,Olive Branch,7500.0
 CA,Pacific Beach,1200.0
-Krung Thep,Ban Khlong Sip,3600.0
+Wales,Penclawdd,3600.0
+OH,Cincinnati,1200.0
+WA,Clyde Hill,3600.0
 CA,Sebastopol,3600.0
-Storstrom,Nakskov,1200.0
-IN,Cartersburg,3600.0
-MI,Howell,1200.0
+Krung Thep,Ban Khlong Sip,3600.0
+England,Blackpool,1200.0
+AR,Rogers,7500.0
 Ontario,King City,1200.0
-VA,Potomac Falls,1200.0
-NJ,Corbin City,1200.0
-VI,St Thomas,3600.0
+Waterford,Tramore,1200.0
+England,York,1200.0
 Meath,Baile Atha Bui,1200.0
 Brussels (Bruxelles),Bruxelles,1200.0
-NY,Victor,1200.0
-Waterford,Tramore,1200.0
-NJ,North Brunswick,1200.0
-OH,Cincinnati,1200.0
-Wales,Penclawdd,3600.0
-England,Blackpool,1200.0
-England,Slough,1200.0
+VI,St Thomas,3600.0
+Storstrom,Nakskov,1200.0
+MS,Olive Branch,7500.0
+Ontario,Orillia,1200.0
+VA,Potomac Falls,1200.0
+Zuid-Holland,Oegstgeest,3600.0
+Frederiksborg,Helsingor,1200.0
+TX,Coppell,1200.0
+NJ,Corbin City,1200.0
 MA,Chelmsford,1200.0
+CA,Yorba Linda,1200.0
+NJ,North Brunswick,1200.0
+IN,Cartersburg,3600.0
+NJ,Mickleton,1200.0
 UT,Kearns,7500.0
 Kobenhavn,Brondby Strand,1200.0
-TX,Coppell,1200.0
-Wicklow,Arklow,1200.0
-Frederiksborg,Helsingor,1200.0
-CA,Portola Valley,3600.0
-NY,New York,3600.0
-Aargau,Berikon,3600.0
-Zuid-Holland,Oegstgeest,3600.0
-England,Guildford,3600.0
-WA,Clyde Hill,3600.0
-NJ,Riverside,1200.0
-CA,Woodland Hills,1200.0
-,Monaco,1200.0
-New South Wales,Vaucluse,1200.0
-OR,Astoria,1200.0
-Ontario,Alcona,1200.0
 Sogn og Fjordane,Aardal,1200.0
-TX,MT Pleasant,1200.0
-ME,South Waterford,1200.0
-TN,Memphis,1200.0
+Ontario,Alcona,1200.0
+Aargau,Berikon,3600.0
+HI,Princeville,1200.0
+NY,New York,3600.0
 MA,Jamaica Plain,1200.0
-England,Sidcup,1200.0
-Stockholm,Taby,1200.0
-England,Southampton,1200.0
 British Columbia,Powell River,3600.0
-GA,Hoschton,1200.0
-England,Liverpool,1200.0
-FL,Naples,1200.0
-OH,Columbus,1200.0
-FL,Bryceville,1200.0
-NJ,Mickleton,1200.0
-NJ,Clinton,1200.0
-Lower Saxony,Oldenburg,1200.0
-Stockholm,Stockholm,1200.0
-Quebec,Montreal-Nord,1200.0
-British Columbia,Fort Saint James,1200.0
-Bacs-Kiskun,Kecskemet,1200.0
-CA,Valley Center,7500.0
-Meath,Julianstown,1200.0
-Antwerpen,Antwerpen,1200.0
-NY,Skaneateles,7500.0
-CA,Altadena,1200.0
+NJ,Riverside,1200.0
+England,Slough,1200.0
+NY,Victor,1200.0
 England,Headley,1200.0
-FL,Margate,1200.0
-HI,Honolulu,1200.0
-TX,Humble,1200.0
-GA,Mableton,3600.0
+NJ,Clinton,1200.0
+ME,South Waterford,1200.0
+Lower Saxony,Oldenburg,1200.0
+TN,Memphis,1200.0
 CT,Weston,1200.0
-Cork,Ballincollig,1200.0
-Saxony,Dresden,1200.0
-GA,Atlanta,1200.0
-WI,Random Lake,1200.0
-Franche-Comte,Besancon,1200.0
-Luxembourg,Gasperich,1200.0
-Buenos Aires,Ayacucho,1200.0
-NY,Brooklyn,1200.0
-CA,Rancho Cordova,1200.0
-Northern Ireland,Belfast,1200.0
-Ontario,North Bay,3600.0
-KY,Owensboro,1200.0
-NY,New Rochelle,1200.0
-Hainaut,La Louviere,1200.0
-PA,Danville,1200.0
-Baden-Wurttemberg,Ludwigsburg,1200.0
-CT,Newtown,1200.0
-Lower Austria,Altlengbach,1200.0
-Hamilton,Hamilton,1200.0
-TX,Richmond,1200.0
-England,Stockton-on-Tees,1200.0
-Vaud,Morges,1200.0
-NV,Las Vegas,1200.0
-South Australia,Lyndoch,1200.0
-TN,Ooltewah,1200.0
-Vienna,Inner City,1200.0
+NY,Skaneateles,7500.0
+Stockholm,Stockholm,1200.0
+TX,Humble,1200.0
+GA,Hoschton,1200.0
+OH,Columbus,1200.0
+Ontario,Mount Forest,1200.0
+England,Southampton,1200.0
+Quebec,Montreal-Nord,1200.0
 FL,Fort Lauderdale,1200.0
-NJ,Saddle Brook,1200.0
-PA,Kennett Square,1200.0
-England,York,1200.0
-Manitoba,Winnipeg,1200.0
-,San Pawl tat-Targa,3600.0
-Santa Catarina,Mafra,1200.0
-Hessen,Wiesbaden,3600.0
-England,Leighton Buzzard,1200.0
+Wicklow,Arklow,1200.0
+CA,Rancho Cordova,1200.0
+FL,Bryceville,1200.0
+FL,Naples,1200.0
+Thuringia,Grossbodungen,1200.0
+PA,Mechanics Grove,1200.0
+Baden-Wurttemberg,Ludwigsburg,1200.0
+Hainaut,La Louviere,1200.0
+Stockholm,Taby,1200.0
+CT,Newtown,1200.0
+Antwerpen,Antwerpen,1200.0
+CA,Portola Valley,3600.0
+CA,Altadena,1200.0
+Bacs-Kiskun,Kecskemet,1200.0
+Luxembourg,Gasperich,1200.0
+FL,Margate,1200.0
 TX,Baytown,1200.0
-NE,Lincoln,1200.0
-Dublin,Killiney,1200.0
-CT,Cos Cob,1200.0
-WA,Sammamish,1200.0
-GA,Ringgold,1200.0
+Meath,Julianstown,1200.0
+HI,Honolulu,1200.0
+CA,Valley Center,7500.0
+GA,Mableton,3600.0
+GA,Atlanta,1200.0
+Buenos Aires,Ayacucho,1200.0
 Geneve,Plan-les-Ouattes,1200.0
-Gauteng,Centurion,1200.0
+WI,Random Lake,1200.0
+WA,Sammamish,1200.0
+South Australia,Lyndoch,1200.0
+TX,Richmond,1200.0
+NJ,Saddle Brook,1200.0
+NV,Las Vegas,1200.0
+Cork,Ballincollig,1200.0
+England,Sidcup,1200.0
+CA,Escondido,1200.0
+British Columbia,Fort Saint James,1200.0
+England,Guildford,3600.0
+Saxony,Dresden,1200.0
+CT,Cos Cob,1200.0
+Lower Austria,Altlengbach,1200.0
 GA,Cumming,1200.0
-VA,Haymarket,1200.0
+Berlin,Berlin,1200.0
+England,Stockton-on-Tees,1200.0
+Northern Ireland,Belfast,1200.0
+Hamilton,Hamilton,1200.0
+CA,Woodland Hills,1200.0
+TN,Ooltewah,1200.0
+Tel Aviv,Tel Aviv,1200.0
+Hessen,Wiesbaden,3600.0
+Santa Catarina,Mafra,1200.0
+PA,Danville,1200.0
+Vienna,Inner City,1200.0
+Dublin,Killiney,1200.0
+Gauteng,Centurion,1200.0
+Alsace,Strasbourg,1200.0
+England,Liverpool,1200.0
+MI,Howell,1200.0
+New South Wales,Vaucluse,1200.0
+NY,New Rochelle,1200.0
+NE,Lincoln,1200.0
 CO,Hghlnds Ranch,1200.0
-Cork,Ballynora,1200.0
-Hamburg,Hamburg,1200.0
-Alberta,Edmonton,1200.0
-England,Bournemouth,1200.0
-England,Warlingham,1200.0
-Lombardy,Milano,3600.0
+Ontario,North Bay,3600.0
+VA,Keller,1200.0
+OR,Astoria,1200.0
 Rhone-Alpes,Evires,1200.0
-British Columbia,Burnaby,1200.0
-Ile-de-France,Rambouillet,1200.0
+TX,MT Pleasant,1200.0
 Bayern,Munich,3600.0
 Western Australia,Perth,3600.0
-Rogaland,Stavenger,1200.0
-Zurich,Zurich,3600.0
-Thuringia,Munchengosserstadt,1200.0
-WI,Oostburg,1200.0
+VA,Haymarket,1200.0
+England,Warlingham,1200.0
 GA,Norcross,1200.0
-Auckland,Torbay,1200.0
-Baden-Wurttemberg,Ehingen an der Donau,1200.0
-VA,Keller,1200.0
-CA,Escondido,1200.0
-Rogaland,Sola,1200.0
-HI,Princeville,1200.0
+Alberta,Edmonton,1200.0
 Dubayy,Jumeira,1200.0
-Provence-Alpes-Cote d'Azur,Antibes,1200.0
-Tipperary,Clonmel,1200.0
-Izmir,Izmir,1200.0
-CA,San Ramon,3600.0
-CA,Sunnyvale,1200.0
-VA,Herndon,1200.0
-UT,South Jordan,1200.0
-FL,St Augustine,1200.0
-NY,Trumansburg,1200.0
-PA,Mid City West,1200.0
-Thuringia,Grossbodungen,1200.0
-FL,Coconut Grove,1200.0
-Ontario,Toronto,3600.0
-MI,Royal Oak,1200.0
-KwaZulu-Natal,Durban,1200.0
-SC,Rock Hill,1200.0
-Istanbul,Zekeriyakoy,1200.0
-NY,Poughkeepsie,1200.0
+Manitoba,Winnipeg,1200.0
+Hamburg,Hamburg,1200.0
+British Columbia,Burnaby,1200.0
 NY,Croton On Hudson,1200.0
-GA,Fort Oglethorpe,1200.0
-TX,Katy,3600.0
+Thuringia,Munchengosserstadt,1200.0
+Auckland,Torbay,1200.0
+KY,Owensboro,1200.0
+Lombardy,Milano,3600.0
+WI,Oostburg,1200.0
+CA,Sunnyvale,1200.0
+Izmir,Izmir,1200.0
+Rogaland,Sola,1200.0
+CA,San Ramon,3600.0
+England,Bournemouth,1200.0
+Rogaland,Stavenger,1200.0
+KY,Louisville,1200.0
+NY,Trumansburg,1200.0
+Tipperary,Clonmel,1200.0
+Istanbul,Zekeriyakoy,1200.0
 NJ,Wall,1200.0
-PA,Gladwyne,1200.0
-TX,Southlake,1200.0
+MI,Royal Oak,1200.0
+,San Pawl tat-Targa,3600.0
+Baden-Wurttemberg,Ehingen an der Donau,1200.0
 Victoria,South Melbourne,1200.0
+Zurich,Zurich,3600.0
+Provence-Alpes-Cote d'Azur,Antibes,1200.0
 Murcia,Churra,1200.0
-Cork,Newmarket,1200.0
+FL,St Augustine,1200.0
+PA,Mid City West,1200.0
+UT,South Jordan,1200.0
 Virginia,Great Falls,1200.0
-MA,Cambridge,1200.0
-CA,Ladera Ranch,1200.0
-TX,Rayford,1200.0
-Baden-Wurttemberg,Stuttgart,1200.0
-Zuid-Holland,Den Haag,7500.0
-England,Kidderminster,1200.0
 MO,Parkville,1200.0
-MA,Andover,1200.0
+KwaZulu-Natal,Durban,1200.0
+VA,Herndon,1200.0
+NY,Buffalo,1200.0
+SC,Rock Hill,1200.0
+GA,Fort Oglethorpe,1200.0
+AK,Fairbanks,1200.0
+VA,Vienna,1200.0
+NY,Centerport,1200.0
+Ontario,Toronto,3600.0
+CA,Temecula,3600.0
+FL,Coconut Grove,1200.0
+TX,Rayford,1200.0
 PA,Chadds Ford,1200.0
-MD,Dickerson,1200.0
+NY,Poughkeepsie,1200.0
+Dublin,Rathfarnham,1200.0
+England,Kidderminster,1200.0
 Stockholm,Lidingo,3600.0
+TX,Southlake,1200.0
+MA,Cambridge,1200.0
+MD,Phoenix,3600.0
+MD,Dickerson,1200.0
 Dublin,Harold's Cross,1200.0
+Zuid-Holland,Den Haag,7500.0
+CA,Ladera Ranch,1200.0
+New South Wales,Mona Vale,3600.0
+Baden-Wurttemberg,Stuttgart,1200.0
 Meath,Mornington,1200.0
 MN,Spring Lake Park,1200.0
-New South Wales,Mona Vale,3600.0
-NY,Centerport,1200.0
-Catalonia,Gava,3600.0
-Wales,Cardiff,1200.0
-Wicklow,Newcastle,1200.0
-Scotland,Newburgh,1200.0
-Western Australia,Rockingham,1200.0
-Quebec,Warwick,1200.0
-Dublin,Rathfarnham,1200.0
-CA,Burbank,1200.0
-England,High Wycombe,1200.0
-Groningen,Glimmen,1200.0
-CA,Temecula,3600.0
-GA,Marietta,1800.0
-HI,Hono,1200.0
-Dublin,Clontarf,1200.0
-KY,Louisville,1200.0
-GA,Sandy Springs,1200.0
-Dublin,Santry,1200.0
-MD,Phoenix,3600.0
-Cork,Blarney,1200.0
-Stockholm,Nacka,1200.0
-Queensland,Worongary,1200.0
-England,Kemble,1200.0
-AZ,Scottsdale,3600.0
-Vaud,Villars,1200.0
-Berlin,Berlin,1200.0
-NJ,Princeton,1200.0
-Pomorskie,Gdansk,1200.0
-TX,Shavano Park,1200.0
-British Columbia,Kelowna,1200.0
-Bayern,Munchen,1200.0
-VA,Roanoke,1200.0
-Limerick,Ballyneety,1200.0
-Meath,Navan,7500.0
-,Nadur,1200.0
-GA,Alpharetta,1200.0
-Brussels (Bruxelles),Brussels,3600.0
-TX,Greenville,1200.0
-England,Reading,1200.0
-CA,Santa Monica,1200.0
-Stockholm,Stocksund,1200.0
-CT,Rowayton,1200.0
-CA,Irvine,3600.0
 NJ,Midland Park,1200.0
-Ontario,Mount Forest,1200.0
-TX,Austin,1200.0
-Alberta,Three Hills,1200.0
-Buskerud,Tranby,1200.0
+Cork,Newmarket,1200.0
+England,Leighton Buzzard,1200.0
+England,High Wycombe,1200.0
+Dublin,Castleknock,1200.0
+VA,Arlington,3600.0
+CA,Burbank,1200.0
+NJ,Princeton,1200.0
+Scotland,Newburgh,1200.0
+Groningen,Glimmen,1200.0
+HI,Hono,1200.0
+PA,Gladwyne,1200.0
+Queensland,Worongary,1200.0
+Quebec,Warwick,1200.0
+Zurich,Ruti,1200.0
+Wicklow,Newcastle,1200.0
+Dublin,Clontarf,1200.0
+Limerick,Ballyneety,1200.0
+Cork,Ballynora,1200.0
+Western Australia,Rockingham,1200.0
+MA,Andover,1200.0
+Chisinau,Bubuieci,1200.0
 NY,Manhattan,1200.0
-Basel-Country,Binningen,3600.0
-VA,Vienna,1200.0
-TX,Houston,1200.0
+England,Kemble,1200.0
+British Columbia,Kelowna,1200.0
+Pomorskie,Gdansk,1200.0
+GA,Sandy Springs,1200.0
+MD,Silver Spring,3600.0
+TX,Shavano Park,1200.0
+MD,Woodsboro,1200.0
+Bayern,Munchen,1200.0
+Vaud,Villars,1200.0
+Dublin,Santry,1200.0
+Brussels (Bruxelles),Brussels,3600.0
+TX,Katy,3600.0
+AZ,Scottsdale,3600.0
+Stockholm,Stocksund,1200.0
+,Nadur,1200.0
+TX,Greenville,1200.0
 England,New Malden,3600.0
-Rhone-Alpes,Saint-Cergues,3600.0
-Ontario,Alliston,1200.0
+Alberta,Three Hills,1200.0
+CT,Rowayton,1200.0
+GA,Alpharetta,1200.0
+England,Haverhill,1200.0
+Cork,Blarney,1200.0
+Meath,Navan,7500.0
+TX,Houston,1200.0
+England,Reading,1200.0
+TX,Austin,1200.0
+CA,Irvine,3600.0
+Basel-Country,Binningen,3600.0
+Alberta,Calgary,3600.0
+Western Australia,Bunbury,3600.0
+RI,Jamestown,1200.0
+NY,Ithaca,1200.0
+CA,Santa Monica,1200.0
+Kobenhavn,Lyngby,1200.0
 HI,Kailua Kona,1200.0
 NY,Bedford Corners,1200.0
-NH,W Lebanon,1200.0
-FL,Parkland,1200.0
-WA,Gonzaga Univ,1200.0
-Western Australia,Bunbury,3600.0
 NJ,Little Silver,1200.0
-CA,San Carlos,1200.0
-NY,Ithaca,1200.0
-England,Haverhill,1200.0
-CT,Ridgefield,1200.0
-Vasterbotten,Umea,1200.0
-Quebec,Cartierville,1200.0
 Sicilia,Lipari,7500.0
-MD,Woodsboro,1200.0
-Nordrhein-Westfalen,Bergen,1200.0
-Kobenhavn,Lyngby,1200.0
-AZ,Chandler,1200.0
-Gauteng,Roodepoort,1200.0
-RI,Jamestown,1200.0
-NY,N Java,1200.0
-Alsace,Strasbourg,1200.0
-TN,Nashville,1200.0
-St Gallen,Balgach,3600.0
-MA,Swampscott,3600.0
-Chisinau,Bubuieci,1200.0
-Sao Paulo,Campinas,7500.0
-HI,Ewa Beach,1200.0
+Rhone-Alpes,Saint-Cergues,3600.0
+Catalonia,Gava,3600.0
+CA,San Carlos,1200.0
+VA,Roanoke,1200.0
+WA,Gonzaga Univ,1200.0
+Quebec,Cartierville,1200.0
 Dublin,Malahide,1200.0
-Taranaki,Hawera,1200.0
-NJ,North Caldwell,1200.0
-Waterford,Waterford,1200.0
-DC,Washington,3600.0
-British Columbia,Vancouver,3600.0
-FL,Boca Raton,1200.0
-England,Manchester,1200.0
-MD,Silver Spring,3600.0
-Madrid,El Escorial,1200.0
-New South Wales,Charlestown,1200.0
+FL,Parkland,1200.0
+Nordrhein-Westfalen,Bergen,1200.0
+HI,Ewa Beach,1200.0
 Vaud,Aubonne,1200.0
-Cork,Cork,3600.0
-Zug,Zug,3600.0
-Pest,Budaors,1200.0
-CA,Sacramento,1200.0
-Vaud,Lausanne,3600.0
-TX,The Woodlands,1200.0
-VA,Mc Lean,1200.0
+NJ,North Caldwell,1200.0
+Vasterbotten,Umea,1200.0
+NY,N Java,1200.0
+Ontario,Hamilton,1200.0
+Buskerud,Tranby,1200.0
+Ontario,Alliston,1200.0
+Wales,Cardiff,1200.0
 Zurich,Regensdorf,1200.0
+Pest,Budaors,1200.0
+AZ,Chandler,1200.0
+Madrid,El Escorial,1200.0
+FL,Boca Raton,1200.0
+CA,Redondo Beach,1200.0
+Hordaland,Bergen,1200.0
+Vaud,Lausanne,3600.0
+NH,W Lebanon,1200.0
 FL,Miami,3600.0
-IN,Floyds Knobs,1200.0
+PA,Kennett Square,1200.0
 MI,Rochester,1200.0
-PA,Downingtown,3600.0
-Ontario,Ottawa,3600.0
-MD,Owings Mills,1200.0
-NY,Warwick,1200.0
-ID,Eagle,1200.0
-CA,Pasadena,1200.0
-Limerick,Kilcornan,1200.0
-CA,San Jose,3600.0
-CA,Fresno,1200.0
-Ontario,Creemore,1200.0
-NC,Statesville,1200.0
-WI,Boyceville,1200.0
-Zurich,Ruschlikon,1200.0
-Alberta,Okotoks,3600.0
-IL,Genoa,1200.0
-,Hong Kong,1200.0
-Alberta,Calgary,3600.0
-Zurich,Ruti,1200.0
-British Columbia,Mission,3600.0
-TN,White House,1200.0
+Gauteng,Roodepoort,1200.0
 England,Leicester,1200.0
-Vestfold,Aasgaardstrand,1200.0
-Zurich,Zumikon,1200.0
-Lower Austria,Klosterneuburg,1200.0
-NY,Buffalo,1200.0
-CA,San Francisco,1200.0
-NJ,Deptford,1200.0
+TX,The Woodlands,1200.0
+Waterford,Waterford,1200.0
+NC,Statesville,1200.0
+England,Manchester,1200.0
+CA,Fresno,1200.0
+CT,Ridgefield,1200.0
+British Columbia,Vancouver,3600.0
+NY,Warwick,1200.0
+GA,Marietta,1800.0
+PA,Downingtown,3600.0
+ID,Eagle,1200.0
+IN,Floyds Knobs,1200.0
+Ontario,Ottawa,3600.0
+TN,Nashville,1200.0
+Zug,Zug,3600.0
+Zurich,Ruschlikon,1200.0
+CA,San Jose,3600.0
+IL,Genoa,1200.0
+Cork,Cork,3600.0
+CA,Pasadena,1200.0
+MD,Owings Mills,1200.0
+VA,Mc Lean,1200.0
+MA,Swampscott,3600.0
+Stockholm,Nacka,1200.0
+British Columbia,Mission,3600.0
+,Hong Kong,1200.0
+Istanbul,Tesvikiye,1200.0
+Alberta,Okotoks,3600.0
+Central Bohemia,Prague,3600.0
+New South Wales,Charlestown,1200.0
+FL,Saint Petersburg,1200.0
+WI,Boyceville,1200.0
 Rhineland-Palatinate,Gries,1200.0
-Zurich,Langnau,3600.0
-GA,Ball Ground,1200.0
 CO,Castle Rock,1200.0
 HI,Mililani,3600.0
-Madrid,Alcobendas,1200.0
-Central Bohemia,Prague,3600.0
-MD,Accokeek,1200.0
-CO,Morrison,1200.0
-NC,Fayetteville,1200.0
+Ontario,Creemore,1200.0
 VA,Dryden,1200.0
-Catalonia,Barcelona,1200.0
-DE,Wilmington,1200.0
-CA,Lakeside,1200.0
-Queensland,Nerang,1200.0
-CA,San Anselmo,3600.0
 NM,Corrales,1200.0
-KS,Atchison,1200.0
-IL,Manteno,1200.0
-Ticino,Bellinzona,3600.0
-Queensland,Burpengary,3600.0
+DE,Wilmington,1200.0
+CA,San Francisco,1200.0
+CA,Sacramento,1200.0
+Abu Zaby,Abu Dhabi,1200.0
+NJ,Deptford,1200.0
 CA,Pacific Palisades,1200.0
+GA,Ball Ground,1200.0
+MD,Accokeek,1200.0
+Madrid,Alcobendas,1200.0
+KS,Atchison,1200.0
+Queensland,Burpengary,3600.0
+WA,Kenmore,1200.0
+TN,White House,1200.0
+Zurich,Zumikon,1200.0
+IL,Manteno,1200.0
+Geneve,Vesenaz,1200.0
+CA,San Anselmo,3600.0
+Ticino,Bellinzona,3600.0
+VA,Sterling,3600.0
 Kobenhavn,Kobenhavn,1200.0
+TX,Terrell Hills,1200.0
 Budapest,Chepel,1200.0
-MD,Joppa,1200.0
+Rio Grande do Sul,Porto Alegre,1200.0
+Vestfold,Aasgaardstrand,1200.0
 Cork,Bandon,1200.0
 England,Oxford,1200.0
-WA,Kenmore,1200.0
-British Columbia,Comox,1200.0
-Distrito Nacional,Santo Domingo City,1200.0
 SC,Bluffton,1200.0
-MD,Rockville,1200.0
-England,Bishops Stortford,1200.0
-CA,Redondo Beach,1200.0
-CA,Chula Vista,1200.0
-Rio Grande do Sul,Porto Alegre,1200.0
-TX,Terrell Hills,1200.0
-Abu Zaby,Abu Dhabi,1200.0
-Yukon Territory,Carcross,3600.0
-England,Huddersfield,3600.0
-Stockholm,Djurgarden,1200.0
-TN,Knoxville,7500.0
-Dublin,Sutton,1200.0
-MA,North Eastham,1200.0
-PA,Villanova,3600.0
-Hordaland,Vossevangen,1200.0
-England,Birmingham,1200.0
 Scotland,Perth,1200.0
-MA,Newton,1200.0
-GA,Sandy Plains,1200.0
-CA,Pls Vrds Est,1200.0
+Istanbul,Beykoz,1200.0
+NC,Fayetteville,1200.0
+Catalonia,Barcelona,1200.0
+Vaud,Morges,1200.0
+MD,Rockville,1200.0
+DC,Washington,3600.0
+MD,Joppa,1200.0
+Sao Paulo,Campinas,7500.0
+St Gallen,Balgach,3600.0
+IL,Lemont,1200.0
+CA,Chula Vista,1200.0
+Distrito Nacional,Santo Domingo City,1200.0
+Yukon Territory,Carcross,3600.0
+British Columbia,Comox,1200.0
+England,Bishops Stortford,1200.0
+MA,North Eastham,1200.0
+Dublin,Sutton,1200.0
+Alberta,Red Deer,1200.0
 Ontario,Cornwall,1200.0
-MD,Glenn Dale,1200.0
-VA,Sterling,3600.0
+GA,Sandy Plains,1200.0
+PA,Villanova,3600.0
+Zurich,Langnau,3600.0
+Hordaland,Vossevangen,1200.0
+FL,Delray Beach,3600.0
+MA,Newton,1200.0
+WA,Edgewood,1200.0
+IA,Ankeny,1200.0
 Basel-Town,Basel,1200.0
 Northern Ireland,Lurgan,1200.0
-Ita-Suomen Laani,Kuopio,1200.0
-IA,Ankeny,1200.0
 AK,Sitka,3600.0
-CA,Vista,1200.0
-CA,Walnut Creek,1200.0
-PA,Cranberry Twp,3600.0
-Istanbul,Beykoz,1200.0
-FL,Delray Beach,3600.0
-Ontario,Hamilton,1200.0
-WA,Edgewood,1200.0
+England,Huddersfield,3600.0
+CO,Morrison,1200.0
+Queensland,Nerang,1200.0
+Taranaki,Hawera,1200.0
+TN,Knoxville,7500.0
+Limerick,Kilcornan,1200.0
+Ontario,Kanata,1200.0
 OH,Beachwood,1200.0
-Noord-Holland,Hilversum,3600.0
-England,Dumbleton,1200.0
-FL,Saint Petersburg,1200.0
-Hordaland,Bergen,1200.0
-Veneto,Vicenza,1200.0
-NC,Wilmington,1200.0
-Basel-Country,Oberwil,1200.0
-Ontario,Guelph,1200.0
-CA,Downey,1200.0
-HI,Hon,1200.0
-Stara Zagora,Zagore,1200.0
-Neuchatel,Neuchatel,1200.0
+PA,Cranberry Twp,3600.0
+Ita-Suomen Laani,Kuopio,1200.0
 Minas Gerais,Vespasiano,1200.0
-CA,North Tustin,1200.0
-Lower Saxony,Braunschweig,3600.0
+CA,Downey,1200.0
+Stara Zagora,Zagore,1200.0
+Veneto,Vicenza,1200.0
+Stockholm,Djurgarden,1200.0
+,Mushrif,1200.0
+CA,Vista,1200.0
+Noord-Holland,Hilversum,3600.0
+Moscow City,Tsaritsyno,3600.0
+HI,Hon,1200.0
+CA,Malibu,1200.0
+CA,Pls Vrds Est,1200.0
+,Monaco,1200.0
+England,Canterbury,1200.0
+MI,Farmington,1200.0
 CA,Hollywood,1200.0
-England,Calne,1200.0
+Neuchatel,Neuchatel,1200.0
+Lower Saxony,Braunschweig,3600.0
+FL,Pensacola,3600.0
 FL,Orlando,3600.0
-Northwest Territories,Yellowknife,1200.0
-CA,Morro Bay,1200.0
-Geneve,Vesenaz,1200.0
+CA,North Tustin,1200.0
+NC,Wilmington,1200.0
 MN,Lakeville,1200.0
-Heredia,Santa Barbaraa,1200.0
-Rhone-Alpes,Ornex,1200.0
+England,Dumbleton,1200.0
+British Columbia,North Vancouver,1200.0
+Aargau,Baden,1200.0
+CA,Huntington Beach,3600.0
+Basel-Country,Oberwil,1200.0
+Northwest Territories,Yellowknife,1200.0
 England,Abbey Town,1200.0
 Dublin,Sandymount,1200.0
-England,Canterbury,1200.0
-IL,Lemont,1200.0
-Gelderland,Ede,3600.0
-CA,Huntington Beach,3600.0
-Moscow City,Tsaritsyno,3600.0
-IL,Wheaton,1200.0
-British Columbia,North Vancouver,1200.0
 Saskatchewan,Saskatoon,3600.0
-CA,Los Gatos,1200.0
+Tuscany,Firenze,1200.0
+MD,Glenn Dale,1200.0
+NC,Huntersville,1200.0
 NJ,Hampton,1200.0
 MA,Mashpee,1200.0
-NC,Huntersville,1200.0
-Tuscany,Firenze,1200.0
-CO,Englewood,3600.0
-CT,Stamford,1200.0
 PA,Lebanon,1200.0
-FL,Plantation,3600.0
-Hessen,Hofheim am Taunus,1200.0
-Tokyo,Setagaya,1200.0
-FL,Winter Spgs,1200.0
-Rhone-Alpes,Ferney-Voltaire,3600.0
-Victoria,Gisborne,3600.0
+CO,Englewood,3600.0
 Rhineland-Palatinate,Ingelheim-Mitte,1200.0
-Saarland,Mettlach,1200.0
-FL,Pensacola,3600.0
+CA,Lakeside,1200.0
+Ontario,Guelph,1200.0
+Gelderland,Ede,3600.0
+Rhone-Alpes,Ornex,1200.0
+FL,Plantation,3600.0
+CA,Morro Bay,1200.0
+CA,Walnut Creek,1200.0
+FL,Winter Spgs,1200.0
+MA,Lexington,1200.0
+Al Manamah,Al 'Adliyah,1200.0
+England,Calne,1200.0
+England,Birmingham,1200.0
+Heredia,Santa Barbaraa,1200.0
+Rhone-Alpes,Ferney-Voltaire,3600.0
+Lower Austria,Klosterneuburg,1200.0
 New South Wales,Parramatta,1200.0
-Rhone-Alpes,Chamonix-Mont-Blanc,1200.0
-MT,Billings,1200.0
-TN,Germantown,1200.0
+Geneve,Geneve,1200.0
+GA,Ringgold,1200.0
 NY,Huntington,1200.0
+MT,Billings,1200.0
+Tokyo,Setagaya,1200.0
+IL,Wheaton,1200.0
+FL,Miami Beach,1200.0
 PA,Lititz,1200.0
 IL,Peoria,1200.0
-Geneve,Geneve,1200.0
-CA,West Hills,1200.0
-MA,Brookline,1200.0
+Victoria,Gisborne,3600.0
+Saarland,Mettlach,1200.0
+MN,Minneapolis,1200.0
+Vaud,Gingins,1200.0
+Sardinia,Cagliari,3600.0
 England,Leamington Spa,1200.0
-MA,Lexington,1200.0
-CA,Malibu,1200.0
-Al Manamah,Al 'Adliyah,1200.0
 New South Wales,Griffith,1200.0
-VA,Arlington,3600.0
 England,Redruth,1200.0
 Arhus,Laasby,1200.0
-Noord-Holland,Badhoevedorp,1200.0
-CA,Fullerton,1200.0
 England,Cheltenham,1200.0
 WA,Seattle,3600.0
-NC,Pittsboro,1200.0
-MI,Farmington,1200.0
-Guatemala,Atlantida,1200.0
 OH,Ottawa Hills,1200.0
-Pays de la Loire,Brulon,1200.0
-Stockholm,Danderyd,1200.0
-Brittany,Guer,1200.0
-Aargau,Baden,1200.0
+ID,Boise,1200.0
+Rhone-Alpes,Chamonix-Mont-Blanc,1200.0
+NC,Pittsboro,1200.0
 CA,Los Angeles,3600.0
+MD,Waldorf,1200.0
 England,Sutton Valence,1200.0
-VA,Ashburn,1200.0
-CO,Superior,1200.0
-Ontario,Kanata,1200.0
+Brittany,Guer,1200.0
+CA,West Hills,1200.0
+Stockholm,Danderyd,1200.0
+MA,Brookline,1200.0
+Kobenhavn,Hellerup,1200.0
+CA,Fullerton,1200.0
 England,Chalfont Saint Peter,1200.0
-England,Maidstone,1200.0
-Sardinia,Cagliari,3600.0
-,Mushrif,1200.0
-CA,Cypress,1200.0
-AK,Fairbanks,1200.0
-NJ,Bridgewater,1200.0
-Dublin,Clondalkin,3600.0
-TN,Hendersonville,1200.0
-New South Wales,Lindfield,1200.0
-Taranaki,New Plymouth City,1200.0
-Freeport,Freeport City,1200.0
-East Bohemia,Hradec Kralove,1200.0
-Auckland,Waiwera,1200.0
-VA,Engleside,1200.0
-England,Watford,1200.0
-Rogaland,Stavanger,1200.0
-Uppsala,Tierp,1200.0
-England,Ashford,1200.0
-CA,Lafayette,1200.0
 Vienna,Neustift am Walde,1200.0
-England,Banbury,1200.0
-VA,Reston,1200.0
-IA,Fairfield,1200.0
-England,Brighton,1200.0
+Pays de la Loire,Brulon,1200.0
+TN,Germantown,1200.0
 CA,Atascadero,1200.0
-Kobenhavn,Holte,1200.0
-Soul-t'ukpyolsi,Songnae-dong,1200.0
+Guatemala,Atlantida,1200.0
+Auckland,Waiwera,1200.0
 Frederiksborg,Rungsted,1200.0
+CO,Superior,1200.0
+IA,Fairfield,1200.0
+Dublin,Clondalkin,3600.0
+Taranaki,New Plymouth City,1200.0
+East Bohemia,Hradec Kralove,1200.0
+NJ,Bridgewater,1200.0
+New South Wales,Lindfield,1200.0
+CT,Stamford,1200.0
+NY,NYC,1200.0
+England,Brighton,1200.0
+Freeport,Freeport City,1200.0
+Kobenhavn,Holte,1200.0
+Rogaland,Stavanger,1200.0
+CA,Lafayette,1200.0
+Noord-Holland,Badhoevedorp,1200.0
+Tuscany,Florence,1200.0
+England,Watford,1200.0
+England,Banbury,1200.0
+CA,Fremont,1200.0
+England,Maidstone,1200.0
+Ostergotland,Norrkoping,3600.0
+England,Petworth,1200.0
 Tasmania,Scamander,3600.0
 IL,Libertyville,1200.0
-FL,Miami Beach,1200.0
-CA,Fremont,1200.0
-FL,Coral Gables,1200.0
-Kobenhavn,Hellerup,1200.0
-Vaud,Gingins,1200.0
-RI,Little Compton,1200.0
-Ile-de-France,Paris,3600.0
-CT,Old Greenwich,1200.0
+VA,Engleside,1200.0
 Tuscany,Grosseto,1200.0
-England,Bishop Auckland,1200.0
-Tuscany,Florence,1200.0
-TX,San Antonio,1200.0
-Kuala Lumpur,Kuala Lumpur,1200.0
-ID,Boise,1200.0
-MN,Shorewood,1200.0
-AZ,Fountain Hls,1200.0
-VT,Pittsfield,3600.0
-MD,College Park,1200.0
-Vestfold,Horten,1200.0
-HI,Kapaa,1200.0
-England,Petworth,1200.0
-KS,Overland,3600.0
-IL,Morton,1200.0
-Ostergotland,Norrkoping,3600.0
-England,Worcester,1200.0
-MI,Farmingtn Hls,1200.0
-,Thorlakshofn,1200.0
-NY,NYC,1200.0
-Ile-de-France,Chatou,1200.0
-Haryana,Gurgaon,1200.0
-Dublin,Foxrock,1200.0
-NJ,West Orange,1200.0
-Queensland,Coomera,1200.0
-CO,Westminster,1200.0
-MI,Rochester Hills,1200.0
-,Gorey,1200.0
-Geneve,Anieres,1200.0
-Alberta,Red Deer,1200.0
-NJ,Alpine,1200.0
-NY,Lake Mahopac,1200.0
-Dublin,Saggart,1200.0
-MA,Belmont,1200.0
-MT,Belgrade,1200.0
-Noord-Holland,Amsterdam,1200.0
-Kobenhavn,Klampenborg,1200.0
-MD,Waldorf,1200.0
-Ceara,Fortaleza,1200.0
-Madrid,Madrid,1200.0
-Lorraine,Hagen,1200.0
-Nordrhein-Westfalen,Telgte,3600.0
-England,Basildon,1200.0
-Quebec,Montreal,1200.0
-CT,Chester,1200.0
-NY,Lindenhurst,1200.0
-England,Berkeswell,1200.0
-Black River,Black River,3600.0
-Provence-Alpes-Cote d'Azur,Biot,3600.0
-Quebec,Sainte-Therese-de-Blainville,1200.0
-Ontario,Belleville,1200.0
-MN,Minneapolis,1200.0
-Bohol,Borja,1200.0
-VA,Falmouth,1200.0
-TX,Irving,1200.0
-TX,Flower Mound,1200.0
-New Providence,Killarney,1200.0
-IA,Burr Oak,1200.0
-Brittany,Rennes,7500.0
-Oslo,Oslo,3600.0
 Auckland,Waiau Pa,1200.0
-Schwyz,Freienbach,1200.0
-England,Gosport,1200.0
-Ontario,Ajax,1200.0
-Attiki,Athina,1200.0
-AL,Cahaba Heights,3600.0
-RI,Bristol,1200.0
+VA,Reston,1200.0
+Soul-t'ukpyolsi,Songnae-dong,1200.0
+England,Bishop Auckland,1200.0
+TX,San Antonio,1200.0
+RI,Little Compton,1200.0
+KS,Overland,3600.0
+FL,Coral Gables,1200.0
+VT,Pittsfield,3600.0
+Vestfold,Horten,1200.0
+AZ,Fountain Hls,1200.0
+NY,Lake Mahopac,1200.0
+Kuala Lumpur,Kuala Lumpur,1200.0
+Uppsala,Tierp,1200.0
+Staden Kobenhavn,Kjobenhavn,1200.0
+Queensland,Coomera,1200.0
+MN,Shorewood,1200.0
+England,Ashford,1200.0
 MI,Oak Park,1200.0
-Queensland,Warwick,1200.0
-Vaud,Begnins,3600.0
-VA,Norfolk,1200.0
-GA,Suwanee,1200.0
-TX,Edinburg,1200.0
-Rhone-Alpes,Veigy-Foncenex,1200.0
-CO,Centennial,13000.0
-Dublin,Shankill,1200.0
-England,Saint Albans,1200.0
-England,Chichester,1200.0
-Dublin,Kinsaley,1200.0
-NY,Wantagh,1200.0
-England,Basingstoke,1200.0
-NY,Staten Island,1200.0
-Quebec,Ile-Perrot,1200.0
-CA,San Mateo,1200.0
-England,Bolton,1200.0
-Prague,Suchdol,1200.0
-ME,Milford,1200.0
-Kiev,Irpin',1200.0
-Auckland,Auckland,1200.0
-,Monte-Carlo,1200.0
-Lazio,Rome,1200.0
-Western Australia,Perth City,1200.0
-VA,Broadlands,1200.0
-CA,Beverly Hills,1200.0
-Oslo,Nordstrand,1200.0
-England,Shenfield,1200.0
-Istanbul,Kemerburgaz,1200.0
-FL,Jacksonville,3600.0
-FL,Winter Haven,3600.0
-TX,Allen,1200.0
-Stockholm,Saltsjobaden,1200.0
-Bayern,Donauworth,3600.0
-NJ,Holmdel,1200.0
-Dublin,Rathgar,1200.0
-Ontario,Waterford,1200.0
-WI,Wisconsin Rapids,1200.0
-CA,San Diego,1200.0
-Upper Normandy,Rouen,1200.0
-KwaZulu-Natal,Pietermaritzburg,7500.0
-FL,South Palm Beach,1200.0
-Rhineland-Palatinate,Glan-Munchweiler,1200.0
-SC,Hilton Head,3600.0
-,George Town,1200.0
-Scotland,Edinburgh,1200.0
-VA,Gainesville,1200.0
-OR,Portland,1200.0
-TX,Lakewood Village,1200.0
-Murcia,La Alberca,1200.0
-TX,Sugar Land,1200.0
-MI,Ann Arbor,3600.0
-FL,Chiefland,1200.0
-AZ,Queen Creek,1250.0
-CA,Davis,3600.0
-IL,Buffalo Grove,1200.0
-NY,N Woodmere,1200.0
-TX,Dallas,1200.0
-Tyrol,WalcProduct3ee,3600.0
-TN,Brentwood,1200.0
-Dublin,Cabinteely,1200.0
-Mayo,Castlebar,1200.0
-VA,Alexandria,1200.0
-Skane,Malmo,3600.0
-Groningen,Groningen,1200.0
-GA,Athens,1200.0
-TX,Fresno,7500.0
-MA,Arlington,1200.0
-Noord-Brabant,Eindhoven,1200.0
-England,London,3600.0
-FL,Pembroke Pines,1200.0
-Tuscany,Lucca,1200.0
-Utrecht,Utrecht,3600.0
-Kilkenny,Urlingford,1200.0
-Kerry,Sneem,1200.0
-Noord-Holland,Naarden,1200.0
-England,Milton Keynes,1200.0
-Scotland,Kirriemuir,3600.0
-IL,Chicago,3600.0
-Queensland,Birkdale,1200.0
-New South Wales,Wollongong,1200.0
-Franche-Comte,Arc-et-Senans,1200.0
-Geneve,Carouge,3600.0
-MD,Baltimore,1200.0
-Istanbul,Istanbul,1200.0
-Gauteng,Benoni,1200.0
-Northern Ireland,Helens Bay,1200.0
-Guangdong,Taicheng,1200.0
-FL,Aloma,1200.0
-NJ,Tenafly,1200.0
-MI,Bloomfield,1200.0
-Istanbul,Tesvikiye,1200.0
-Provence-Alpes-Cote d'Azur,Roquefort,1200.0
-Ticino,Massagno,1200.0
-Mazowieckie,Pruszkow,1200.0
-CA,Encinitas,1200.0
-Andhra Pradesh,Hyderabad,1200.0
-WI,Madison,1200.0
-Lower Saxony,Hannover,1200.0
-Lombardy,Milan,1200.0
-Ontario,Simcoe,1200.0
-England,Cobham,1200.0
-NV,Ely,1200.0
-TX,Killeen,3600.0
-Victoria,Anglesea,1200.0
-Riga,Vecmilgravis,1200.0
-England,Saffron Walden,1200.0
-MN,Chaska,1200.0
-NY,Mahopac,2100.0
-England,Exeter,1200.0
+Hessen,Hofheim am Taunus,1200.0
+Ile-de-France,Paris,3600.0
+NJ,West Orange,1200.0
 CA,Penngrove,3600.0
-Kobenhavn,Charlottenlund,1200.0
-TN,Martin,1200.0
-CA,Glendora,1200.0
-OH,Washington Township,1200.0
-Louth,Drogheda,1200.0
-CA,La Crescenta,1200.0
-Noord-Holland,Castricum,1200.0
+CA,Los Gatos,1200.0
+VA,Ashburn,1200.0
+England,Worcester,1200.0
+Lorraine,Hagen,1200.0
+CO,Westminster,1200.0
+HI,Kapaa,1200.0
+MA,Belmont,1200.0
+,Thorlakshofn,1200.0
+Noord-Holland,Amsterdam,1200.0
+FL,Jacksonville,3600.0
+Dublin,Foxrock,1200.0
+Dublin,Saggart,1200.0
+CT,Old Greenwich,1200.0
+IL,Morton,1200.0
+Geneve,Anieres,1200.0
+NJ,Alpine,1200.0
+Ontario,Belleville,1200.0
+England,Basildon,1200.0
+Nordrhein-Westfalen,Telgte,3600.0
+Attiki,Athina,1200.0
+IL,Buffalo Grove,1200.0
+Kobenhavn,Klampenborg,1200.0
+Black River,Black River,3600.0
+Madrid,Madrid,1200.0
+CT,Chester,1200.0
+Ceara,Fortaleza,1200.0
+NY,Lindenhurst,1200.0
+CA,Cypress,1200.0
+,Gorey,1200.0
+MD,College Park,1200.0
 Scotland,Aberdeen,1200.0
-AK,Anchorage,1200.0
-NY,Larchmont,1200.0
-TX,Montgomery,1200.0
-Ontario,Saint Catharines,1200.0
-Oslo,Holmenkollen,1200.0
-MA,Winchester,1200.0
+Quebec,Montreal,1200.0
+Provence-Alpes-Cote d'Azur,Biot,3600.0
+RI,Bristol,1200.0
+England,Berkeswell,1200.0
+TX,Irving,1200.0
+England,Saffron Walden,1200.0
+Oslo,Nordstrand,1200.0
+VA,Falmouth,1200.0
+Dublin,Shankill,1200.0
+New Providence,Killarney,1200.0
+England,Gosport,1200.0
+IA,Burr Oak,1200.0
+Bohol,Borja,1200.0
+Franche-Comte,Besancon,1200.0
+Schwyz,Freienbach,1200.0
+Upper Normandy,Rouen,1200.0
+CA,Davis,3600.0
+England,Saint Albans,1200.0
+AL,Cahaba Heights,3600.0
+England,Shenfield,1200.0
+Ile-de-France,Chatou,1200.0
+Quebec,Sainte-Therese-de-Blainville,1200.0
+TX,Edinburg,1200.0
+VA,Norfolk,1200.0
+Prague,Suchdol,1200.0
+GA,Suwanee,1200.0
+NJ,Tenafly,1200.0
+Dublin,Kinsaley,1200.0
+England,Bolton,1200.0
+MT,Belgrade,1200.0
+Ontario,Ajax,1200.0
+England,Basingstoke,1200.0
+TX,Flower Mound,1200.0
+Quebec,Ile-Perrot,1200.0
+Kiev,Irpin',1200.0
+,Monte-Carlo,1200.0
+Brittany,Rennes,7500.0
+CO,Centennial,13000.0
+NY,Wantagh,1200.0
+CA,Beverly Hills,1200.0
+ME,Milford,1200.0
+Auckland,Auckland,1200.0
+TX,Allen,1200.0
+Lazio,Rome,1200.0
+FL,Winter Haven,3600.0
+Northern Ireland,Helens Bay,1200.0
+Western Australia,Perth City,1200.0
+Rhone-Alpes,Veigy-Foncenex,1200.0
+CA,San Mateo,1200.0
+Tuscany,Lucca,1200.0
+Stockholm,Saltsjobaden,1200.0
+VA,Broadlands,1200.0
+TX,Dallas,1200.0
+WI,Wisconsin Rapids,1200.0
+MN,Eagan,3600.0
+Queensland,Warwick,1200.0
+MI,Ann Arbor,3600.0
 Zurich,Kloten,3600.0
-General Santos,Baluan,1200.0
-GA,Augusta,1200.0
-UT,Salt Lake City,1200.0
-AR,Nashville,1200.0
-LA,Shreveport,7500.0
-Pais Vasco,Basauri,1200.0
+Groningen,Groningen,1200.0
+Scotland,Edinburgh,1200.0
+,George Town,1200.0
+NY,Staten Island,1200.0
+Bayern,Donauworth,3600.0
+CA,San Diego,1200.0
+Vaud,Begnins,3600.0
+VA,Gainesville,1200.0
+Scotland,Kirriemuir,3600.0
+NJ,Holmdel,1200.0
+Rhineland-Palatinate,Glan-Munchweiler,1200.0
+FL,Pembroke Pines,1200.0
+England,Exeter,1200.0
+TX,Sugar Land,1200.0
+Ontario,Waterford,1200.0
+VA,Alexandria,1200.0
+NV,Ely,1200.0
+Dublin,Cabinteely,1200.0
+NY,N Woodmere,1200.0
+AZ,Queen Creek,1250.0
+Utrecht,Utrecht,3600.0
+Mayo,Castlebar,1200.0
+Murcia,La Alberca,1200.0
+Istanbul,Kemerburgaz,1200.0
+GA,Athens,1200.0
+Skane,Malmo,3600.0
+SC,Hilton Head,3600.0
+Noord-Holland,Naarden,1200.0
+Queensland,Birkdale,1200.0
+England,London,3600.0
+TX,Fresno,7500.0
+Kerry,Sneem,1200.0
+Kilkenny,Urlingford,1200.0
 Andalucia,Sevilla,1200.0
+FL,South Palm Beach,1200.0
+Tyrol,WalcProduct3ee,3600.0
+Lombardy,Milan,1200.0
+IL,Chicago,3600.0
+Franche-Comte,Arc-et-Senans,1200.0
+Ile-de-France,Rambouillet,1200.0
+England,Milton Keynes,1200.0
+New South Wales,Wollongong,1200.0
+Tipperary,Thurles,1200.0
+Gauteng,Benoni,1200.0
+MD,Baltimore,1200.0
+TN,Brentwood,1200.0
+Dublin,Rathgar,1200.0
+MI,Rochester Hills,1200.0
+MI,Farmingtn Hls,1200.0
+Geneve,Carouge,3600.0
+Istanbul,Istanbul,1200.0
+TN,Hendersonville,1200.0
+Riga,Vecmilgravis,1200.0
+CA,Encinitas,1200.0
+Oslo,Holmenkollen,1200.0
+FL,Chiefland,1200.0
+TX,Lakewood Village,1200.0
+Victoria,Echuca,1200.0
+Noord-Brabant,Eindhoven,1200.0
+Lower Saxony,Hannover,1200.0
+TX,Killeen,3600.0
+WI,Madison,1200.0
+WA,Issaquah,3600.0
+MI,Bloomfield,1200.0
+Mazowieckie,Pruszkow,1200.0
+Victoria,Anglesea,1200.0
+NY,Mahopac,2100.0
+OR,Portland,1200.0
+Andhra Pradesh,Hyderabad,1200.0
+England,Wigan,1200.0
+Haryana,Gurgaon,1200.0
+Ticino,Massagno,1200.0
+Pais Vasco,Basauri,1200.0
+Veneto,Ponte San Nicolo,3600.0
+Guangdong,Taicheng,1200.0
+Dublin,Dun Laoghaire,1200.0
+TN,Martin,1200.0
+CA,La Crescenta,1200.0
+AK,Anchorage,1200.0
+Louth,Drogheda,1200.0
+OH,Washington Township,1200.0
+MA,Winchester,1200.0
+Saskatchewan,Prince Albert,3600.0
+Victoria,Melbourne,1200.0
+NY,Larchmont,1200.0
+FL,Aloma,1200.0
+TX,Montgomery,1200.0
+CA,Glendora,1200.0
 England,Newbury,1200.0
-England,Stockton,1200.0
-Tokyo,Tokyo,1200.0
-Provence-Alpes-Cote d'Azur,Aix-en-Provence,1200.0
-FL,Amelia Island,1200.0
-Vaud,Trelex,3600.0
+British Columbia,Maple Ridge District Municipality,1200.0
+Etela-Suomen Laani,Lahti,1200.0
 UT,Dammeron Valley,1200.0
-MS,Senatobia,3600.0
-CT,Norwalk,1200.0
-British Columbia,Tsawwassen,1200.0
-Dubayy,Dubai,3600.0
-IL,Flossmoor,3600.0
-Bucuresti,Voluntari,1200.0
-NC,Durham,1200.0
-Quebec,Anse Comeau,1200.0
+UT,Salt Lake City,1200.0
+Provence-Alpes-Cote d'Azur,Aix-en-Provence,1200.0
+England,Stockton,1200.0
+England,Cobham,1200.0
+GA,Augusta,1200.0
+NY,Brooklyn,1200.0
+Ontario,Saint Catharines,1200.0
 Queensland,Brisbane,1200.0
-Dublin,Blackrock,1200.0
+MN,Chaska,1200.0
+Bucuresti,Voluntari,1200.0
+Tokyo,Tokyo,1200.0
+MS,Senatobia,3600.0
+IL,Saint Charles,1200.0
+CT,Norwalk,1200.0
+CA,Fairfax,1200.0
+Dubayy,Dubai,3600.0
+LA,Shreveport,7500.0
+AR,Nashville,1200.0
+Vaud,Trelex,3600.0
+IL,Flossmoor,3600.0
+Quebec,Anse Comeau,1200.0
 AZ,Phoenix,1200.0
 Vienna,Vienna,1200.0
-Phuket,Phuket,1200.0
-Bern,Bern,3600.0
-England,Tunbridge Wells,3600.0
-PA,Mechanics Grove,1200.0
 SC,Simpsonville,1200.0
-Tipperary,Thurles,1200.0
-CA,Fairfax,1200.0
-NY,Sag Harbor,1200.0
-CA,Rodeo,1200.0
-IL,Saint Charles,1200.0
-VA,Leesburg,1200.0
-England,Wigan,1200.0
-British Columbia,Maple Ridge District Municipality,1200.0
-England,Coventry,1200.0
-Geneve,Versoix,1200.0
-Dublin,Castleknock,1200.0
-VA,Great Falls,1200.0
-New South Wales,Avalon,3600.0
-WA,Issaquah,3600.0
-Victoria,Echuca,1200.0
-Dublin,Dun Laoghaire,1200.0
-NY,Lake Ronkonkoma,1200.0
-Vestsjalland,Soro,1200.0
-Staden Kobenhavn,Kjobenhavn,1200.0
-AZ,Anthem,1200.0
-Victoria,Melbourne,1200.0
-Etela-Suomen Laani,Lahti,1200.0
-MI,Birmingham,1200.0
-Veneto,Ponte San Nicolo,3600.0
-England,Claygate,1200.0
-MN,Eagan,3600.0
-MN,Saint Paul,3600.0
-CA,Yorba Linda,1200.0
-Queensland,Gold Coast,1200.0
-Saskatchewan,Prince Albert,3600.0
-Westmeath,Mullingar,1200.0
+Dublin,Blackrock,1200.0
 New South Wales,Sydney,3600.0
+FL,Amelia Island,1200.0
+NY,Sag Harbor,1200.0
+England,Coventry,1200.0
+British Columbia,Tsawwassen,1200.0
+CA,Rodeo,1200.0
+Westmeath,Mullingar,1200.0
+General Santos,Baluan,1200.0
+VA,Leesburg,1200.0
+AZ,Anthem,1200.0
+NY,Lake Ronkonkoma,1200.0
+Noord-Holland,Castricum,1200.0
+Ontario,Simcoe,1200.0
+Kobenhavn,Charlottenlund,1200.0
+Geneve,Versoix,1200.0
+Phuket,Phuket,1200.0
+England,Claygate,1200.0
 Queensland,The Grange,1200.0
+MA,Arlington,1200.0
+England,Chichester,1200.0
+Bern,Bern,3600.0
+Provence-Alpes-Cote d'Azur,Roquefort,1200.0
+Queensland,Gold Coast,1200.0
+VA,Great Falls,1200.0
+MI,Birmingham,1200.0
+MN,Saint Paul,3600.0
+Oslo,Oslo,3600.0
+NC,Durham,1200.0
+England,Tunbridge Wells,3600.0
+Vestsjalland,Soro,1200.0
+New South Wales,Avalon,3600.0
+KwaZulu-Natal,Pietermaritzburg,7500.0
